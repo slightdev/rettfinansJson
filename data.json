@@ -1,0 +1,20 @@
+{
+  "title": 'Condominium',
+  "post": 'Borettslag',
+},
+{
+  "title": 'Living with parents',
+  "post": 'Bor hos foreldre',
+},
+{
+  "title": 'Lodger',
+  "post": 'Selveier leilighet',
+},
+{
+  "title": 'Own house',
+  "post": 'eget hus',
+},
+{
+  "title": 'Rental',
+  "post": 'Leier',
+}
