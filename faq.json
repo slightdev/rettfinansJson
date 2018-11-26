@@ -1,20 +1,35 @@
 {
-  "title": 'Condominium',
-  "post": 'Borettslag',
+  "title": '1. Hvem kan søke om lån?',
+  "post": 'Følgende kriterier må være oppfylt for å kunne søke om forbrukslån:
+- Du har ingen betalingsanmerkninger.
+- Du er mellom 25 og 75 år gammel. 
+- Du har en inntekt på minst 220 000 kroner i året.
+- Du har en e-postadresse og et norsk telefonnummer.
+- Du er registrert i folkeregisteret og du har bodd i eller skattet i Norge i 3 år.',
 },
 {
-  "title": 'Living with parents',
-  "post": 'Bor hos foreldre',
+  "title": '2. Hvor mye kan jeg låne',
+  "post": '- Våre samarbeidspartnere kan låne deg opp til 500.000 kr. Det stilles ingen krav til bolig, bil eller andre eiendeler. Hver enkelt bank gjør en helhetsvurdering ut fra opplysningene du har oppgitt og kredittopplysningen de innhenter. Deretter fastsetter bankene hvor mye de kan gi deg i forbrukslån.',
 },
 {
-  "title": 'Lodger',
-  "post": 'Selveier leilighet',
+  "title": '3. Hvor lang nedbetalingstid kan jeg ha?',
+  "post": '- Den korteste nedbetalingstiden du kan velge i søknaden for et forbrukslån er ett år, men du kan betale ned hele eller deler av lånet så raskt du måtte ønske. Den lengste nedbetalingstiden er 15 år. Tilpass selv forbrukslånets nedbetalingstid i forhold til hvor mye du kan betale per måned.',
 },
 {
-  "title": 'Own house',
-  "post": 'eget hus',
+  "title": '4. Kan jeg betale ned forbrukslånet raskere?',
+  "post": '- Det er alltid mulig å nedbetale lånet med samme hvis du har mulighet for det. Det er helt kostnadsfritt og du styrer det selv.',
 },
 {
-  "title": 'Rental',
-  "post": 'Leier',
+  "title": '5. Hvilken rente vil jeg få på forbrukslånet mitt?',
+  "post": '- Når du søker gjennom oss, samler vi tilbud fra 13 ulike banker for deg. Det gjør mye enklere for deg å velge den beste renten. Hver enkelt bank gjør en helhetsvurdering på bakgrunn av opplysningene du har oppgitt og kredittopplysningene som er innhentet. Renten du mottar vil derfor variere fra bank til bank. En søknad med en medsøker betyr ofte lavere risiko for bankene, noe som kan føre til lavere rente på forbrukslånet ditt.',
+},
+{
+  "title": '6. Hvorfor får jeg avslag?',
+  "post": 'Det kan være forskjellige grunner til at du får avslag på søknaden din. Det er viktig at du oppfyller følgende kriterier:
+- Du har ingen betalingsanmerkninger.
+- Du er mellom 25 og 75 år gammel. 
+- Du har en inntekt på minst 220 000 kroner i året.
+- Du har en e-postadresse og et norsk telefonnummer.
+- Du er registrert i folkeregisteret og du har bodd i eller skattet i Norge i 3 år
+Har du en betalingsanmerkning eller inkassokrav skal disse slettes innen du kan søke om et lån.',
 }
